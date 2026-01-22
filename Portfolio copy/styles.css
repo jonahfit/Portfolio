@@ -604,6 +604,7 @@ section {
 
     .hero-container {
         grid-template-columns: 1fr;
+        flex-direction: column-reverse;
         text-align: center;
         gap: 2rem;
     }
